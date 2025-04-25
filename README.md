@@ -58,7 +58,7 @@ Visualizations was done using Power BI and visuals created in Power BI included
 **Power BI** for data visualization and dashboard creation
 **Microsoft Word** for Reports and Analysis
 
-##Conclusion
+## Conclusion
 
 The analysis highlighted clear seasonal sales patterns, especially tied to holidays, and revealed that external economic factors have a minor but noticeable impact on consumer spending behavior at Walmart.
 By identifying top-performing stores and understanding the influence of holidays, Walmart can optimize inventory management, staffing, and marketing strategies during critical periods.
